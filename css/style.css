@@ -1,0 +1,32 @@
+#main-header{
+    background: #000;
+  }
+  .footer, h2, .ted{
+    color: gray;
+    background: #000;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  .social_icon {
+    width: 50%;
+    margin: 0 auto;
+    border-bottom: 1px solid #ffffff;
+}
+.social_icon ul {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    text-align: center;
+}
+.social_icon li {
+    list-style: none;
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50% #ac1111;
+}
+.social_icon li a {
+    color: #ffffff;
+}
+.social_icon li a:hover {
+    color: #ac1111;
+}
